@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+firebase-admin
+google-cloud-secret-manager
